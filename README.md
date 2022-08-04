@@ -1,8 +1,5 @@
 # Build my own micro-app
 
-<center>
-    彭斐然
-</center>
 
  ## 双线程通信 web-worker
 
